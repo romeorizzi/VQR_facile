@@ -100,7 +100,13 @@ I seguenti Screenshots potranno aiutare a risolvere i tuoi dubbi se sei un cacca
 
 </details>
 
-E` quì opportuno e giusto ringraziare le segretarie dei vari dipartimenti, a partire da quelle solerti del nostro che si sono premunite di farci avere il file excel ed istruirci in merito anche su segnalazioni e richieste di colleghi docenti che anche hanno quindi contribuito alla raccolta di questo know-how. 
+E` quì opportuno e giusto ringraziare le segretarie dei vari dipartimenti, a partire da quelle solerti del nostro che si sono premunite di farci avere il file excel ed istruirci in merito anche su segnalazioni e richieste di colleghi docenti che anche hanno quindi contribuito alla raccolta di questo know-how.
+
+Un modo concreto di dimostrare il nostro apprezzamento per il loro lavoro potrebbe essere quello di esaudire delle loro richieste volte alla collaborazione:
+
+1. Per agevolarci il lavoro, Vi chiediamo di darci comunicazione dell'avvenuta chiusura della selezione.
+
+2. Vi chiediamo inoltre di segnalarci se tra i prodotti da Voi selezionati ce ne sono alcuni che avete associato ad un SSD diverso dal vostro.
 
 ## Fase 2: scelta ([IRIS](https://iris.univr.it/))
 
