@@ -100,10 +100,8 @@ I seguenti Screenshots potranno aiutare a risolvere i tuoi dubbi se sei un cacca
 
 </details>
 
-<p>Non c'è pietas ma una volta chiarito si può fare (sarebbe meglio correggessero i programmi, o rivedessero gli appalti, ovviamente). Poi io la VQR non l'ho chiesta e credo avremmo tutti di meglio da fare (le risorse di varia natura andrebbero forse investite diversamente). Però stando così le cose o si balla o si resta penalizzati. E' la macchina bellezza.</p> 
+E` quì opportuno e giusto ringraziare le segretarie dei vari dipartimenti, a partire da quelle solerti del nostro che si sono premunite di farci avere il file excel ed istruirci in merito anche su segnalazioni e richieste di colleghi docenti che anche hanno quindi contribuito alla raccolta di questo know-how. 
 
-E` quì opportuno e giusto ringraziare le segretarie dei vari dipartimenti, a partire da quelle solerti del nostro che si sono premunite di farci avere il file excel ed istruirci in merito su segnalazioni e richieste di colleghi docenti. 
- 
 ## Fase 2: scelta ([IRIS](https://iris.univr.it/))
 
 Il portale dove avviene la vera e definitiva selezione dei tuoi prodotti di ricerca è [IRIS](https://iris.univr.it/). Lo trovi allo URL:
