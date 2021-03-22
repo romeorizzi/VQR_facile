@@ -10,6 +10,8 @@ In questa prima fase ti conviene avvalerti del supporto di due strumenti:
 
 2. lo strumento [Sherpa/romeo](https://v2.sherpa.ac.uk/romeo/), della famiglia degli [Sherpa](https://v2.sherpa.ac.uk/), ti consente di assicurarti di avere pieni diritti di mettere a disposizione su IRIS dei .pdf di tuoi lavori per i quali tu o tuoi coautori avete firmato i più svariati copyright.
 
+Presenteremo i due strumenti separatamente, nelle due seguenti sezioni, ma a termine della seconda sezione cercheremo di suggerire come coordinare le interrogazioni ai due servizi in un workflow efficiente. Dedicheremo poi una terza sezione a questa prima fase per discutere la corretta gestione di eventuali lavori a conferenza.
+
 ### Strumento di Supporto alla Valutazione della CRUI
 
 Lo [strumento di supporto alla valutazione della CRUI](https://supportocrui.it/supportovalutazione/) si trova allo URL:
@@ -57,6 +59,35 @@ Selezionata una pathway (una alla volta, sic!), le autorizzazioni si trovano sot
 
 <strong>Hint 2:</strong> Non cliccare sui pathways per visionarli (altrimenti poi quando torni indietro devi rifare ogni volta il percorso). Clicca invece sul `+` che trovi a destra ed esso si espanderà esibendo le info che ti servono, per poi ricollassare quando premi `-`.
 
+### Lavori a Conferenza
+
+Una cosa importante da sapere è che per far riconoscere a SupportoCrui (e non escludiamo anche quella della commissione che valuterà) la corretta classificazione dei Convegni/conferenze è necessario che il campo "Nome del convegno" (anche chiamato "Titolo del Convegno" in altri contesti) in IRIS coincida esattamente con il titolo nella colonna "title" della tabella excel che trovi nella [cartella coi descrittori corretti di conferenze/convegni](conference_titles/).
+
+ Purtroppo 1: Quando in IRIS si carica una pubblicazione a conferenza succede che la maggior parte delle conferenze non risultino correttamente classificata. A seguito di ciò la loro valutazione su SupportoCrui (e non escludiamo anche quella della commissione che valuterà) sarà pari a zero.
+ Conviene pertanto effettuare la modifica del titolo in IRIS il prima possibile.
+ La modifica sarà visibile su SupportoCrui il giorno successivo.
+
+ Ad esempio:
+  una conferenza indicata in IRIS con titolo "42nd Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages" non viene semplicemente classificata. La stessa deve essere indicata con il titolo "ACM SIGPLAN-SIGACT SYMPOSIUM ON PRINCIPLES OF PROGRAMMING LANGUAGES", dove risulta classificata A++.
+
+ Purtroppo 2: devi scegliere la tabella excel relativa alla tua disciplina (e non è detto che ne sia già stata collocata copia in questo repo. Dato che l'obiettivo da raggiungere con la VQR è di ateneo, conviene ci organizziamo in modo distribuito in questo: inviatemi tabelle aggiuntive al mio indirizzo istituzionale UniVR di posta elettronica AND/OR organizzatevi a livello di dipartimento.
+
+Dopo essere entrato in IRIS, i passi per correggere i titoli delle conferenze per quei singoli lavori che avrai deciso di valorizzare per questa VQR sono i seguenti:
+
+1. Arrivare alla seguente schermata dove puoi sia chiedere di visualizzare (per più rapidamente controllare) pigiando sul tag/tab di "Scheda_Completa" che avviare l'editing di correzione pigiando il bottone "Integra"
+
+<a href="url"><img src="figs/Screenshot_IRIS_integra_button.png" align="left" height="48" width="48" ></a>
+
+2. Quando visualizzi la scheda completa il campo cui guardare si chiama "<strong>Nome</strong> del Convegno": 
+<a href="url"><img src="figs/Screenshot_Nome_del_convegno_IRIS_scheda_completa.png" align="left" height="48" width="48" ></a>
+
+3. Quando invece integri, il dato da editare è nel secondo dei form di immissione dati che ti vengono scarrellati, e quì si chiama "<strong>Titolo</strong> del Convegno": 
+<a href="url"><img src="figs/Screenshot_Titolo_del_Convegno_IRIS_integra.png" align="left" height="48" width="48" ></a>
+
+Non c'è pietas ma una volta chiarito si può fare (sarebbe meglio correggessero i programmi, o meglio rivedessero gli appalti, ovviamente). Poi io la VQR non l'ho chiesta e credo avremmo tutti di meglio da fare (le risorse di varia natura andrebbero forse investite diversamente). Però stando così le cose o si balla o si resta penalizzati. E' la macchina bellezza. 
+
+A tale proposito, è quì opportuno e giusto ringraziare le segretarie dei vari dipartimenti, a partire da quelle solerti del nostro che si sono premunite di farci avere il file excel ed istruirci in merito su segnalazioni dei colleghi docenti. 
+ 
 ## Fase 2: scelta ([IRIS](https://iris.univr.it/))
 
 Il portale dove avviene la vera e definitiva selezione dei tuoi prodotti di ricerca è [IRIS](https://iris.univr.it/). Lo trovi allo URL:
