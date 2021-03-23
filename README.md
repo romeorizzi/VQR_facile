@@ -1,6 +1,15 @@
 # VQR facile: come selezionare le proprie pubblicazioni
 
-Conviene spezzare il lavoro in due fasi: cernita delle pubblicazioni da presentare e scelta ufficiale e definitiva delle stesse su `IRIS`.
+Conviene spezzare il lavoro in due fasi: cernita delle pubblicazioni da presentare e scelta ufficiale e definitiva delle stesse su `IRIS`. Questo documento si articola in due sezioni, una per ciascuna fase. Conviene partire dalla Fase 1 e con questa guida non è da escludersi ti venga possibile riuscire a sequenziarle in modo stretto.
+
+Detto questo, nel cappello di questa prima sezione è solo giusto ringraziare le segretarie dei vari dipartimenti, a partire da quelle solerti del nostro che, ad esempio in particolare Aurora, si sono premunite di farci avere il file excel ed istruirci in merito anche su segnalazioni e richieste di colleghi docenti che anche hanno quindi contribuito alla raccolta di questo know-how.
+
+Un modo concreto di dimostrare il nostro apprezzamento per il loro lavoro potrebbe essere quello di esaudire le loro richieste di aderire per spirito di collaborazione a dei workflow utili a garantire la miglior riuscita del processo stesso:
+
+1. Per agevolarci il lavoro, Vi chiediamo di darci comunicazione dell'avvenuta chiusura della selezione.
+
+2. Vi chiediamo inoltre di segnalarci se tra i prodotti da Voi selezionati ce ne sono alcuni che avete associato ad un SSD diverso dal vostro.
+
 
 ## Fase 1: individuazione e cernita 
 
@@ -26,7 +35,7 @@ https://supportocrui.it/supportovalutazione/
 Dopo aver cliccato scendi nella pagina che ti compare, dove trovi la tabella "Contributi in Rivista" o più sotto la tabella "Contributi in Atti di Convegni" (man mano che selezionerai i prodotti verrà a costituirsi una tabella "Prodotti Assegnati") al di sopra di queste due tabelle.  
 Da queste due tabelle (se possibile dalla prima che ti sarà più semplice perché non dovrai rinominare le conferenze e non comporta valutazioni a valle) cerca le pubblicazioni adatte a questa VQR. Considera che le categorie A e B vanno entrambe bene (A è leggermente meglio di B, ma non vale la pena fare cambi di settore per aumentare da B ad A). Le C vanno messe solo se con le A/B non si arriva a 3 pubblicazioni. Metti la quarta pubblicazione solo se A/B.
 
-Se puoi evita di mettere pubblicazioni dove hai coautori del tuo stesso ateneo perché se la stessa pubblicazione è messa da due o più coautori di ateneo sono tutte pallottole perse. Se è complicata accordati con loro tenendo anche conto dell'etichetta "docente in politica di reclutamento", l'obiettivo è (dicunt) quello di massimizzare i punti per l'ateneo e non dovrebbe quindi avere alcun senso ragionare in ottica individuale.
+Se puoi evita di mettere pubblicazioni dove hai coautori del tuo stesso ateneo perché se la stessa pubblicazione è messa da due o più coautori di ateneo sono tutte pallottole perse. Se è complicata accordati con loro tenendo anche conto del fatto che conviene dare la precedenza a docenti che siano stati promossi di ruolo nella finestra temporale di riferimento della VQR. (Per risolvere ogni dubbio in merito le segretarie del nostro dipartimento ci hanno fatto avere una lista dei docenti con il profilo "politiche di reclutamento", magari anche gli altri dipartimenti avranno saputo organizzasi in tale senso.) L'obiettivo è (dicunt) quello di massimizzare i punti per l'ateneo e non dovrebbe quindi avere alcun senso ragionare in ottica individuale.
 
 Per alcuni di noi c'è il problema dei settori disciplinari. Ad esempio io quando sono entrato mi sono trovato un solo lavoro in A e tutto il resto era desolazione. Questo perché è ormai anni che raramente pubblico da solo o con coautori del mio settore (MAT/09) e nelle collaborazioni mi è giusto lasciare ai collaboratori scegliere la rivista o conferenza di sottomissione.
 
@@ -76,9 +85,9 @@ Dopo essere entrato in IRIS, i passi per correggere i titoli delle conferenze pe
 
 1. Arrivare alla seguente schermata dove puoi sia chiedere di visualizzare (per più rapidamente controllare) pigiando sul tag/tab di "Scheda_Completa" che avviare l'editing di correzione pigiando il bottone "Integra"
 
-2. Quando visualizzi la scheda completa il campo cui guardare si chiama "<strong>Nome</strong> del Convegno": 
+2. Quando visualizzi la scheda completa il campo cui guardare si chiama "<strong>Nome</strong> del Convegno"
 
-3. Quando invece integri, il dato da editare è nel secondo dei form di immissione dati che ti vengono scarrellati, e quì si chiama "<strong>Titolo</strong> del Convegno": 
+3. Quando invece integri, il dato da editare è nel secondo dei form di immissione dati che ti vengono scarrellati, e quì si chiama "<strong>Titolo</strong> del Convegno"
 
 I seguenti Screenshots potranno aiutare a risolvere i tuoi dubbi se sei un caccadubbi come il sottoscritto:
 
@@ -100,13 +109,15 @@ I seguenti Screenshots potranno aiutare a risolvere i tuoi dubbi se sei un cacca
 
 </details>
 
-E` quì opportuno e giusto ringraziare le segretarie dei vari dipartimenti, a partire da quelle solerti del nostro che si sono premunite di farci avere il file excel ed istruirci in merito anche su segnalazioni e richieste di colleghi docenti che anche hanno quindi contribuito alla raccolta di questo know-how.
+Una volta fatto tutto questo, ed atteso il giorno dopo se l'operazione di correzione si è rivelata necessaria, puoi proseguire come segue:
 
-Un modo concreto di dimostrare il nostro apprezzamento per il loro lavoro potrebbe essere quello di esaudire delle loro richieste volte alla collaborazione:
+*** DA SISTEMARE ***
+Anocora una volta per selezionare una pubblicazione devi cliccare sulla ![manina col pollice verso l'alto](figs/like_no.png) nella colonna "Preferenza". Ma questa Lo farai una volta che la categoria della pubblicazione che trovi sulla stessa riga della tabella sia impostata sulle categorie utili (un Vant (vedere utima colonna) superiore a 5 dovrebbe essere più che sufficinte). Per modificare tale categoria richiedendo la valutazione di altro settore clicca sull'effige ![WOS/scopus](figs/infoWOSScopus.png) contenuta nella colonna "Dettagli e Commenti". Quando clicchi su tale immagine vieni flashato su un'altra pagina dove devi scendere fino alla tabella titolata "Valutazione relativa ad Altre Aree/SSD" (ci arrivi diretto con ricerca (Ctrl-F su chrome) di "Altre"). Quì potrai selezionare un'altro settore cliccando nuovamente l'icona della ![manina col pollice verso l'alto](figs/like_no.png). Puoi poi tornare alla pagina precedente utilizzando il pulsante apposito del browser, questo sito te lo lascia fare.  
 
-1. Per agevolarci il lavoro, Vi chiediamo di darci comunicazione dell'avvenuta chiusura della selezione.
 
-2. Vi chiediamo inoltre di segnalarci se tra i prodotti da Voi selezionati ce ne sono alcuni che avete associato ad un SSD diverso dal vostro.
+Vai alla tabella in fondo alla pagina titolata "Dettagli Selezione Prodotto". CLicca su 
+
+
 
 ## Fase 2: scelta ([IRIS](https://iris.univr.it/))
 
